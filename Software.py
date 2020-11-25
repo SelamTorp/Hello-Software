@@ -1,3 +1,4 @@
 # Hello-Software
-I am start.
+print("I am start.")
+
 
